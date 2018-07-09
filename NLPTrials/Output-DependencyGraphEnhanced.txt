@@ -4,3 +4,6 @@
       -> with/IN (case)
   -> 1000/CD (dep)
     -> than/IN (case)
+
+
+(ROOT (S (NP (NP (NNS clients)) (PP (IN with) (NP (NN aum)))) (ADJP (JJR greater)) (PP (IN than) (NP (CD 1000)))))
