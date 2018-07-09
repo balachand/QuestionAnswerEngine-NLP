@@ -1,0 +1,6 @@
+-> greater/JJR (root)
+  -> clients/NNS (dep)
+    -> aum/NN (nmod:with)
+      -> with/IN (case)
+  -> 1000/CD (dep)
+    -> than/IN (case)
